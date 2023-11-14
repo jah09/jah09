@@ -46,6 +46,7 @@
        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=vscode" />  </a>
           <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=visualstudio" />  </a>
             <!-- c c# -->
+            
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" />  </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cs" />  </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=androidstudio" /> </a>   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=dotnet" /> </a>
     <!--dotnet -->
