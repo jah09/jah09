@@ -12,7 +12,7 @@
 
 </div>
 
-<h3 align="center" style="color:red">A passionate and also aspiring web and mobile developer #GitGud</h3>
+<h3 align="center" style="color:red">I'm interested learning new things/tech stack and also aspiring web and mobile developer #GitGud</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">About me</h3>
  🌱 I’m currently learning ReactJs
