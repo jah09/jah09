@@ -28,7 +28,7 @@
 
 
 
-<h3 align="left">Technologies I use</h3>
+<h3 align="left">Technologies I used</h3>
 
 <p align="left"> 
 <!--  <a href="https://www.java.com">
