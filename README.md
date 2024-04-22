@@ -44,7 +44,8 @@
     <a href="https://docs.github.com/en" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=github" />  </a>
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=wordpress" />  </a>
        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=vscode" />  </a>
-          <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=visualstudio" />  </a>
+          <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022](https://laravel.com/docs/11.x/readme)" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=visualstudio" />  </a>
+          <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=laravel" />  </a>
             <!-- c c# -->
             
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" />  </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cs" />  </a>
