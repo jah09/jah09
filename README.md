@@ -56,13 +56,7 @@
   target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://reactnative.dev/docs/getting-started" target="_blank"
-  rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
+
 
   <a href="https://reactnative.dev/docs/getting-started" target="_blank"
   rel="noreferrer">
