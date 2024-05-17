@@ -56,8 +56,6 @@
   target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-
-
   <a href="https://reactnative.dev/docs/getting-started" target="_blank"
   rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" />
@@ -106,6 +104,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
+  <br/>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
