@@ -22,8 +22,7 @@
 <h3 align="left">
   About me
 </h3>
-🌱 I’m currently learning Laravel and Vue <br>
-🌱 Also cloning the Reddit App using React typescript for Frontend and Springboot for Backend
+🌱 I’m currently learning Laravel and Vue 
 <h3 align="left">
 📫 How to reach me **jlsuhot@gmail.com**
 </h3>
