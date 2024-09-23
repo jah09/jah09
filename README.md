@@ -12,8 +12,7 @@
   </h1>
 </div>
 <h3 align="center" style="color:red">
-  I'm interested learning new things/tech stack and also aspiring web and
-  mobile developer #GitGud
+   Although I work professionally, my passion for learning about trending new technologies never stops. I make it a point to stay updated with the latest advancements. #GitGud
 </h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">
@@ -22,7 +21,7 @@
 <h3 align="left">
   About me
 </h3>
-🌱 I’m currently learning Laravel and Vue 
+🌱 I’m currently learning VILT
 <h3 align="left">
 📫 How to reach me **jlsuhot@gmail.com**
 </h3>
