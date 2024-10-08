@@ -21,10 +21,17 @@
 <h3 align="left">
   About me
 </h3>
-🌱 I’m currently learning VILT
-<h3 align="left">
-📫 How to reach me **jlsuhot@gmail.com**
-</h3>
+<p>
+  🌱 I’m currently learning VILT
+</p>
+<p>
+  📫 How to reach me: jlsuhot@gmail.com
+</p>
+<p>
+   🍵 Currently brewing my Jahfolio version 2
+</p>
+
+
 
 <h3 align="left">
   Connect with me
