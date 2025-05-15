@@ -3,16 +3,13 @@
   alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d"
   style="max-width: 100%; display: inline-block; alignt:center;" data-target="animated-image.originalImage">
 </div>
-<div class="title-holder">
+<div class="title-holder" style="margin-left:50px;">
   <h1 align="center" class="title">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jah!"
-      alt="Typing SVG" />
-    </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jah.+%F0%9F%91%8B;Web+and+mobile+developer+%F0%9F%8C%90%F0%9F%93%B1" alt="Typing SVG" /></a>
   </h1>
 </div>
 <h3 align="center" style="color:red">
-   Although I work professionally, my passion for learning about trending new technologies never stops. I make it a point to stay updated with the latest advancements. #GitGud
+    #GitGud
 </h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">
@@ -27,9 +24,7 @@
 <p>
   📫 How to reach me: jlsuhot@gmail.com
 </p>
-<p>
-   🍵 Currently brewing my Jahfolio version 2
-</p>
+
 
 
 
