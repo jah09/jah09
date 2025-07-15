@@ -12,9 +12,7 @@
     #GitGud
 </h3>
 <img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="left">
-  Portfolio link -  https://jahfoliov2.vercel.app/
-</h3>
+
 <h3 align="left">
   About me
 </h3>
