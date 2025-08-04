@@ -17,7 +17,7 @@
   About me
 </h3>
 <p>
-  🌱 I’m currently learning Filament
+  🌱 I’m cooking something 
 </p>
 <p>
   📫 How to reach me: jlsuhot@gmail.com
@@ -36,13 +36,10 @@
     />
   </a>
 </p>
-<h3 align="left">
+<!-- <h3 align="left">
   Technologies I used
-</h3>
-<p align="left">
-  <!-- <a href="https://www.java.com">
-  <img src="https://skillicons.dev/icons?i=git" />
-  </a> -->
+</h3> -->
+<!-- <p align="left">
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
@@ -113,8 +110,6 @@
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
-
-  <!-- c c# -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
@@ -127,5 +122,5 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
-  <!--dotnet -->
 </p>
+ -->
