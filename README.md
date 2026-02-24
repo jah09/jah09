@@ -1,4 +1,4 @@
-k<div align="center" style="max-width: 100;">
+<div align="center" style="max-width: 100;">
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zk4ez0xe6ubffph7qmrag4zgie6qg0c9dmi6948s&ep=v1_gifs_search&rid=giphy.gif&ct=g"
   alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d"
   style="max-width: 100%; display: inline-block; alignt:center;" data-target="animated-image.originalImage">
